@@ -140,5 +140,5 @@ Wait for the project's maintainers to review your pull request and provide feedb
 Thank you for considering this project. If you have any questions, please do not hesitate to contact me.
 
 
-## Contact Me
-Quber: [https://quber.com.au/](https://quber.com.au/)
+
+
